@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Ahasan Habib",
+        "email": "err@aiub.edu",
+        "mobilenumber": "01754321560",
+        "address": "Gulshan, Dhaka, Bangladesh",
+        "username": "as habib",
+        "password": "1234567#",
+        "gender": "Male",
+        "dob": "2022-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "Athoy Roy",
+        "email": "athoy@gmail.com",
+        "mobilenumber": "01789654321",
+        "address": "Uttara, Dhaka, Bangladesh ",
+        "username": "at roy",
+        "password": "athoy12@",
+        "gender": "Male",
+        "dob": "2022-07-25",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "bappi roy",
+        "email": "bappi@gmail.com",
+        "mobilenumber": "01956437865",
+        "address": "Mirpur, Dhaka, Bangladesh",
+        "username": "bp roy",
+        "password": "bappi34@",
+        "gender": "Male",
+        "dob": "2021-06-22",
+        "profilepicpath": "profilepic\/1.jpg"
+    }
+]

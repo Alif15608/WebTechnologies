@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "Price": "2.2 Crore",
+        "Location": "Road No 2, Sector 6, Uttara, Dhaka",
+        "Apartment": "An Apartment Of 2343 Sq Ft Is Waiting For Sale At Uttara Sector 6",
+        "Email": "kamal@gmail.com",
+        "phone": "01712432315"
+    },
+    {
+        "ID": 2,
+        "Price": "2.0 Crore",
+        "Location": "Road No 2, Sector 6, Uttara, Dhaka",
+        "Apartment": "Visit This 2343 Sq Ft Flat For Sale In Uttara Sector 6.",
+        "Email": "alifkhan@gmail.com",
+        "phone": "0171234589"
+    },
+    {
+        "ID": 3,
+        "Price": "2.1 Crore",
+        "Location": "Road No 2, Sector 6, Uttara, Dhaka",
+        "Apartment": "Visit This 2343 Sq Ft Flat For Sale In Uttara Sector 6.",
+        "Email": "rayad@gmail.com",
+        "phone": "01795522265"
+    }
+]

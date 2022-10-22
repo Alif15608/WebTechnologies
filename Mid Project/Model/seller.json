@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Kamrul Hasan",
+        "email": "kamrul@aiub.edu",
+        "mobilenumber": "01609215678",
+        "address": "Tejgaon, Dhaka, Bangladesh",
+        "username": "km hasan",
+        "password": "1234567#",
+        "gender": "Male",
+        "dob": "2020-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "Reyad Hasan",
+        "email": "reyad@aiub.edu",
+        "mobilenumber": "01567439821",
+        "address": "Gulshan, Dhaka, Bangladesh",
+        "username": "re hasan",
+        "password": "1234567#",
+        "gender": "Male",
+        "dob": "2005-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "Nusrat Maria",
+        "email": "nusrat@aiub.edu",
+        "mobilenumber": "01754321560",
+        "address": "Mohammadpur, Dhaka",
+        "username": "ns maria",
+        "password": "1234567#",
+        "gender": "Female",
+        "dob": "2002-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "Raayan Raja",
+        "email": "raja@aiub.edu",
+        "mobilenumber": "01954367821",
+        "address": "Dhanmondi, Dhaka",
+        "username": "ra raja",
+        "password": "1234567#",
+        "gender": "Male",
+        "dob": "2022-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    }
+]
